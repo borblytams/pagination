@@ -1,2 +1,0 @@
-# pagination
-Pagination features
